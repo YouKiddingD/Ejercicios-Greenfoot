@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PongWorld
+comment1.params=
+comment1.target=PongWorld()
+comment2.params=
+comment2.target=void\ sumaPunt1()
+comment3.params=
+comment3.target=void\ sumaPunt2()
+comment4.params=ganador
+comment4.target=void\ checar(java.lang.String)
+numComments=5
